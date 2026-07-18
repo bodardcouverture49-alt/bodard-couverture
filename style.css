@@ -19,12 +19,12 @@ a {
 }
 
 .hero {
-  min-height: 88vh;
-  color: #fff;
-  position: relative;
-  background:
-    linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.78)),
-    url("hero.jpg") center / cover no-repeat;
+    min-height: 88vh;
+    color: #fff;
+    position: relative;
+    background:
+        linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.78)),
+        url("hero.jpg") center center / cover no-repeat;
 }
 
 .navbar {
