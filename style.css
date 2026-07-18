@@ -24,7 +24,7 @@ a {
     position: relative;
     background:
         linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.78)),
-        url("héros.jpg") center center / cover no-repeat;
+        url("héros.jpg.jpg") center center / cover no-repeat;
 }
 
 .navbar {
